@@ -19,3 +19,6 @@ Este proyecto automatiza las pruebas para la creación de kits de productos usan
 ## Dependencias 📌
 - `requests`
 - `pytest`
+
+## Fuente de documentación utilizada 📑
+apiDoc: https://cnt-c4158072-4164-4dfa-88cf-24ea729c8678.containerhub.tripleten-services.com/docs/
